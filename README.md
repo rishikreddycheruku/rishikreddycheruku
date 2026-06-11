@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&color=62A5FF&multiline=true&repeat=false&width=500&height=100&lines=Hi+There!;I'm+Rishik+Reddy+Cheruku" alt="Hi There! Rishik Reddy Cheruku Here" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1500&color=62A5FF&multiline=true&repeat=false&width=600&lines=Hi+There!+I'm+Rishik+Reddy+Cheruku" alt="Typing SVG" /></a>
 </br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=62A5FF&width=500&lines=Full+Stack+Developer;Cloud+%26+Edge+Computing;Machine+Learning;Building+things+that+ship" alt="Typing SVG" /></a>
 </br>
