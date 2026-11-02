@@ -43,7 +43,7 @@ Built and deployed **production tooling** across data engineering and financial 
 
 - Engineered a multi-source reconciliation system with **150+ custom validation rules** — catches misreported data before it propagates downstream
 - Deployed ETL workflows (Alteryx · SQL · Python) across data lakes and external APIs
-- Built a self-executing **BUA tracking system** for work-aging and SLA breach monitoring; automated 4 reporting pipelines reaching 25+ stakeholders with auto-alert logic on breached items
+- Built a self-executing **BAU tracking system** for work-aging and SLA breach monitoring; automated 4 reporting pipelines reaching 25+ stakeholders with auto-alert logic on breached items
 - Applied **LLM prompt engineering** to extract key financial attributes from legal agreements — **>85% accuracy** in production
 - Automated documentation + data entry via email-scanning workflows; reduced manual overhead across the entire ops stack
 
